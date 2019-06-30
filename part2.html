@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<head>
+	<link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>"
+  <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>"
+  <script src="scripts/part2.js"></script>
+</head>
+
+<body>
+  <div class="jumbotron">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <h1>Lesson 1 Finding fossil man </h1>
+          <p>New Concept English 4</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <p class="small" id = "text"> We can read of things that happened 5,000 years ago in the Near East, where people first learned to write. But there are some parts of the word where even now people cannot write. The only way that they can preserve their history is to recount it as sagas -- legends handed down from one generation of another. These legends are useful because they can tell us something about migrations of people who lived long ago, but none could write down what they did. Anthropologists wondered where the remote ancestors of the Polynesian peoples now living in the Pacific Islands came from. The sagas of these people explain that some of them came from Indonesia about 2,000 years ago.
+       <br>
+       <br>
+       But the first people who were like ourselves lived so long ago that even their sagas, if they had any, are forgotten. So archaeologists have neither history nor legends to help them to find out where the first 'modern men' came from.
+      <br>
+      <br>
+      Fortunately, however, ancient men made tools of stone, especially flint, because this is easier to shape than other kinds. They may also have used wood and skins, but these have rotted away. Stone does not decay, and so the tools of long ago have remained when even the bones of the men who made them have disappeared without trace.</p>
+      </div>
+    </div>
+ </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3> New words and expressions</h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <!-- List group -->
+      <div class="col-xs-6 col-sm-4">
+        <div class="list-group" id="vocablist" role="tablist">
+          <a class="list-group-item list-group-item-action" data-toggle="list" href="#v1" role="tab" onclick="showPane1()">fossil man (title)</a>
+          <a class="list-group-item list-group-item-action" data-toggle="list" href="#v2" role="tab" onclick="showPane2()">recount (1.3)</a>
+          <a class="list-group-item list-group-item-action" data-toggle="list" href="#v3" role="tab" onclick="showPane3()">saga (1.3)</a>
+          <a class="list-group-item list-group-item-action" data-toggle="list" href="#v4" role="tab" onclick="showPane4()">legend (1.3)</a>
+          <a class="list-group-item list-group-item-action" data-toggle="list" href="#v5" role="tab" onclick="showPane5()">anthropologist (1.5)</a>
+        </div>
+      </div>
+      <!-- Tab panes -->
+      <div class="col-xs-6 col-sm-8">
+        <div class="tab-content">
+          <div class="tab-pane fade" id="v1" role="tabpanel"><dfn>adj. </dfn>化石人 </div>
+          <div class="tab-pane fade" id="v2" role="tabpanel"><dfn>v. </dfn> 叙述</div>
+          <div class="tab-pane fade" id="v3" role="tabpanel"><dfn>n. </dfn> 英雄故事</div>
+          <div class="tab-pane fade" id="v4" role="tabpanel"><dfn>n. </dfn> 传说，传奇</div>
+          <div class="tab-pane fade" id="v5" role="tabpanel"><dfn>n. </dfn> 人类学家</div>
+        </div>
+      </div>
+    </div>
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3> Questions</h3>
+      </div>
+
+      <div class="col-xs-12">
+        <div class="panel panel-info">
+          <div class="panel-heading">
+            Please give answers to the following questions
+          </div>
+          <div class="panel-body">
+            <div id="ques">
+		        <!-- QUESTIONS HERE -->
+	          </div>
+            <button type="button" class="btn btn-lg btn-primary" onclick="saveAnswer()">Submit</button>
+            <hr>
+            <pre id="result">Result:<br><br></pre>
+          </div>
+        </div>
+      </div>
+   </div>
+ </div>
+
+ <!--- Footer --->
+ <div class="container">
+   <div class="row">
+     <div class="col-xs-12 text-center">
+        <footer>
+          <p>2019 Xinke Song</p>
+        </footer>
+     </div>
+   </div>
+ </div>
+
+</body>
+  
