@@ -1,9 +1,13 @@
 # Supplemental Rationale
 
 - See repository: https://github.com/xs2343/Final-Project
-- See demonstration
+- See demonstration:
   - Part 1: https://codepen.io/xs2343/live/RzxqaZ
   - Part 2: https://codepen.io/xs2343/live/ydpGye
+- See YouTube reflection video: https://youtu.be/LWeVBYgF--A
+- See codepen:
+  - Part 1: https://codepen.io/xs2343/pen/RzxqaZ
+  - Part 2: https://codepen.io/xs2343/pen/ydpGye
 
 （Since there are two pages in my final project, I am not sure how to use Github Pages to deal with two ".html" files in the master branch. So I use the "live view" of codepen instead.)
 
