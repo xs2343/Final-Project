@@ -163,4 +163,4 @@ function saveAnswer() {
   printLog ("#result", results);
 }
 
-//
+// The debugger and the Console were used a lot in the Question section. Breakpoints were created to examine the value of the variables (i.e. x, y, A, B), the return of the functions, and the properties of the elements.
