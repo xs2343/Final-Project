@@ -1,5 +1,11 @@
 # Supplemental Rationale
 
+- See repository: https://github.com/xs2343/Final-Project
+- See demonstration
+  - Part 1: https://codepen.io/xs2343/live/RzxqaZ
+  - Part 2: https://codepen.io/xs2343/live/ydpGye
+
+（Since there are two pages in my final project, I am not sure how to use Github Pages to deal with two ".html" files in the master branch. So I use the "live view" of codepen instead.)
 
 ## Introduction
 
@@ -23,6 +29,6 @@ After completing the study, the teacher may ask the students to complete these q
 
 #### Link to YouTube reflection video:
 https://youtu.be/LWeVBYgF--A
-#### Link to the final project:
+#### Link to the codepen:
 Part 1: https://codepen.io/xs2343/pen/RzxqaZ
 Part 2: https://codepen.io/xs2343/pen/ydpGye
