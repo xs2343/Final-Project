@@ -30,9 +30,3 @@ This section lists the key words and expressions in this lesson. Students can fi
 
 ### Questions
 After completing the study, the teacher may ask the students to complete these questions so as to test their learning results. These questions are all multiple-choice questions. Students will be tested for their mastery of grammar and vocabulary, as well as their reading comprehension. Their total score and the key to the questions will be shown after they click on the "Submit" button. Teachers may teach in a targeted manner according to each student's performance in these questions.
-
-#### Link to YouTube reflection video:
-https://youtu.be/LWeVBYgF--A
-#### Link to the codepen:
-Part 1: https://codepen.io/xs2343/pen/RzxqaZ
-Part 2: https://codepen.io/xs2343/pen/ydpGye
