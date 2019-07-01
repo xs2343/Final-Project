@@ -23,7 +23,7 @@
 Before reading the article, the teacher may ask the students to listen to the audio and answer the question. The audio should be played first. When the audio is ended, the question will appear on the page. This is a good exercise for students to improve their listening skills. If the students miss something, the audio can be played repeatedly. Students may also practice their speaking skills by reading after the audio. After listening to the audio, the student can move on by clicking on the hyperlink.
 
 ### Text
-In the text section, when a student selects a piece of text, the text will be bolded so that the student can mark the key sentences when learning the text.
+In the text section, when a student selects a piece of text, the text will be bolder so that the student can mark the key sentences when learning the text.
 
 ### New words and expressions
 This section lists the key words and expressions in this lesson. Students can find the Chinese interpretation of each word by clicking on it. Since the Chinese interpretation only appears when the word is clicked, this design also enables students to self-test whether they have understood the words.
